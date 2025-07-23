@@ -6,7 +6,7 @@
 ![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?logo=oracle&logoColor=white)
 ![Oracle PL/SQL](https://img.shields.io/badge/OraclePL/SQL-4169E1?logo=oracle&logoColor=white)
 ![Oracle 19c Database](https://img.shields.io/badge/Oracle%2019c%20Database-512BD4?logo=oracle&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet&logoColor=white)
+![ASP.NET Web From](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&logoColor=white)
