@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Shohal Afzal. Nice to see you.👋</h2>
+<h2 align="center">Hi, I'm Md Shohal Afzal. Nice to see you.👋</h2>
 <h4 align="center">Experienced System Analyst, passionate about building innovative and efficient solutions for digital transformation.</h4>
 <br />
 <div align="center">
