@@ -8,7 +8,6 @@
 ![Oracle 19c Database](https://img.shields.io/badge/Oracle%2019c%20Database-512BD4?logo=oracle&logoColor=white)
 ![ASP.NET Web From](https://img.shields.io/badge/ASP.NET%20Web%20From-5C2D91?logo=oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
